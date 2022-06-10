@@ -1,0 +1,22 @@
+60 Days 60 Coding 60 Problem :-
+
+Day :- 1   Binary Search
+
+Day :- 2   Sum of Two Array
+
+Day :- 3   Rotate the Number by k units
+
+Day :- 4   kadane's Algorithm
+
+Day :- 5   Wave Display in Array
+
+Day :- 6   Spiral Display in Array
+
+Day :- 7   ExitPoint of Matrix
+
+Day :- 8   Matrix Multiplication
+
+Day :- 9   Intersection of Two Array
+
+Day :- 10  Sadal Point in Array
+
